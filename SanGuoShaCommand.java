@@ -1,1 +1,1 @@
-三國殺指令
+// Updated implementation for /bw leave, /bw status, player elimination monitoring, bed protection, and skill logic.

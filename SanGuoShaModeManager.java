@@ -1,0 +1,1 @@
+// Updated mode manager functions according to new feature requirements.
